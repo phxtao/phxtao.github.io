@@ -1,26 +1,31 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: Postdoc @Cornell, PhD from Tsinghua, BSc from Sun Yat-sen Uni  
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>305 Rice Hall</p>
+    <p>Cornell University</p>
+    <p>Ithaca, NY 14850</p>
 
-news: true  # includes a list of news items
-latest_posts: true  # includes a list of the newest posts
+news: false  # includes a list of news items
+latest_posts: false  # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Thanks for stopping by!
+I’m a postdoc at Department of Ecology & Evolutionary Biology at Cornell University.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+My research interests are to understand the global soil carbon cycle (both organic and inorganic part) and its response to climate change.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+In collaboration with my brilliant colleagues, we have developed a “PROcess-guided deep learning and DAa driven modeling (PRODA)” approach that integrates big soil carbon data, process-based models, and data assimilation and machine learning techniques to gain emerging understanding of global soil organic carbon storage. You can check our [methodology paper](https://www.frontiersin.org/articles/10.3389/fdata.2020.00017/full) and [science paper](https://www.nature.com/articles/s41586-023-06042-3).
+
+My postdoc project focuses on enhanced rock weathering to promote soil inorganic carbon as a scalable carbon dioxide removal method.
+
+
