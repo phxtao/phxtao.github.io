@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Postdoc @Cornell, PhD from Tsinghua, BSc from Sun Yat-sen Uni  
+subtitle: Postdoc at Cornell, PhD from Tsinghua, BSc from Sun Yat-sen Uni  
 
 profile:
   align: right
@@ -11,7 +11,7 @@ profile:
   address: >
     <p>305 Rice Hall</p>
     <p>Cornell University</p>
-    <p>Ithaca, NY 14850</p>
+    <p>Ithaca, NY 14853</p>
 
 news: false  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
