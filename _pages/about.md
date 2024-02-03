@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Postdoc at Cornell, PhD from Tsinghua, BSc from Sun Yat-sen Uni  
+subtitle: Postdoc at Cornell University, PhD from Tsinghua University, BSc from Sun Yat-sen University 
 
 profile:
   align: right
