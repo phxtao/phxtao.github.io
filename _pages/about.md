@@ -19,7 +19,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Thanks for stopping by! I’m a postdoc at Department of Ecology & Evolutionary Biology at Cornell University.
+I am currently a postdoc at Department of Ecology & Evolutionary Biology at Cornell University.
 
 My research interests are to understand the global soil carbon cycle (both organic and inorganic part) and its response to climate change.
 
