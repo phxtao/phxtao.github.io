@@ -1,8 +1,9 @@
 ---
 layout: page
-title: projects
+title: Projects
 permalink: /projects/
 description: A growing collection of your cool projects.
+<<<<<<< Updated upstream
 <<<<<<< HEAD
 nav: false
 nav_order: 2
@@ -10,6 +11,10 @@ nav_order: 2
 nav: true
 nav_order: 3
 >>>>>>> upstream/main
+=======
+nav: true
+nav_order: 3
+>>>>>>> Stashed changes
 display_categories: [work, fun]
 horizontal: false
 ---
