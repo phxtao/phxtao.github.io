@@ -4,18 +4,12 @@ permalink: /publications/
 title: Publications
 description:
 nav: true
-nav_order: 2
+nav_order: 1
 ---
-
 <!-- _pages/publications.md -->
-
-<!-- Bibsearch Feature -->
-
-{% include bib_search.liquid %}
-
 <div class="publications">
 
-{% bibliography %}
+{% bibliography -f {{ site.scholar.bibliography }} %}
 
 </div>
 
