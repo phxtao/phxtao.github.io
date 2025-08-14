@@ -1,12 +1,24 @@
 ---
 layout: page
 permalink: /teaching/
-title: teaching
-description: Materials for courses you taught. Replace this text with your description.
-nav: false
-nav_order: 5
+title: Teaching
+description: 
+nav: true
+nav_order: 2
 ---
+#### **Pennsylvania State University**
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+**2025 Fall**: Special Topics (IST 597-007, 3 credit): ***[AI, Systems Modeling and Carbon](https://ist.psu.edu/current-students/graduate-students/course-and-thesis-scheduling/ist-597-007-ai-systems-modeling-and-carbon)***,
 
-Organize your courses by years, topics, or universities, however you like!
+#### **Cornell University**
+
+**2025 Spring**: Graduate seminar (BioEE 7600-101, 1 credit): ***AI in Ecology, Biodiversity, & the Environment***,
+as Co-Instructor with Drs. Felipe Pacheco, Imanol Miqueleiz, and Sebastian Heilpern
+
+**2024 Fall**: Graduate seminar (BioEE 7600-102, 1 credit): ***Global soil carbon cycle modeling and AI-aided new discoveries***, as Instructor
+
+**2022–** Two-week Training Course: ***New Advances in Land Carbon Cycle Modeling***, as Lecturer and Instructor
+
+#### **Northern Arizona University**
+
+**2019–2021** Two-week Training Course: ***New Advances in Land Carbon Cycle Modeling***, as Lecturer and Instructor
