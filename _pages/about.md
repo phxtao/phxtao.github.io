@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Incoming Assistant Professor in Climate AI at the Pennsylvania State University
+subtitle: Assistant Professor in Climate AI at the Pennsylvania State University
 
 profile:
   align: right
