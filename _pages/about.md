@@ -27,7 +27,7 @@ Currently, I am a Schmidt AI for Science Postdoctoral Fellow at Cornell Universi
 I obtained my Ph.D. in Ecology from Tsinghua University in 2023, working with Prof [Yiqi Luo (Cornell)](https://cals.cornell.edu/yiqi-luo), and Prof [Xiaomeng Huang (Tsinghua)](http://faculty.dess.tsinghua.edu.cn/huangxiaomeng/zh_CN/index.htm) on soil organic carbon and AI, and B.S. in Environmental Science from Sun Yat-sen University in 2018. 
 
 <span style="color:red; font-weight: bold;">
-I am actively seeking one postdoc, PhD students (starting from 2026 Spring or Fall), master/undergraduate interns, and visiting scholars to join my lab. Potential projects are listed in <a href="{{ site.baseurl }}/Opportunities/">Opportunities</a>. If you are interested in, please feel free to contact me via [Email](mailto: feng.tao@cornell.edu; phx.tao@gmail.com) with your CV.
+I am actively seeking one postdoc, PhD students (starting from 2026 Spring or Fall), master/undergraduate interns, and visiting scholars to join my lab. Potential projects are listed in <a href="{{ site.baseurl }}/opportunities/">Opportunities</a>. If you are interested in, please feel free to contact me via [Email](mailto: feng.tao@psu.edu; phx.tao@gmail.com) with your CV.
 </span>
 
 *****
