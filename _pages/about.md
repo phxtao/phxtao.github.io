@@ -21,9 +21,9 @@ social: true  # includes social icons at the bottom of the page
 
 #### **Bio**
 
-I will be joining the Pennsylvania State University at College of Information Science and Technology and Institute of Energy and the Environment (co-hire) as an Assistant Professor in Climate AI in the fall of 2025. 
+I am an Assistant Professor in Climate AI at College of Information Science and Technology and Institute of Energy and the Environment (co-hire) at the Pennsylvania State University. 
 I work at the interface of soil carbon science, mechanistic modelling, and AI to understand the global soil carbon cycle and its response to climate change. 
-Currently, I am a Schmidt AI for Science Postdoctoral Fellow at Cornell University, working with Dean [Ben Houlton](https://cals.cornell.edu/benjamin-z-houlton) on enhanced rock weathering. 
+Before joining Penn State, I was a Schmidt AI for Science Postdoctoral Fellow at Cornell University, working with Dean [Ben Houlton](https://cals.cornell.edu/benjamin-z-houlton) on enhanced rock weathering. 
 I obtained my Ph.D. in Ecology from Tsinghua University in 2023, working with Prof [Yiqi Luo (Cornell)](https://cals.cornell.edu/yiqi-luo), and Prof [Xiaomeng Huang (Tsinghua)](http://faculty.dess.tsinghua.edu.cn/huangxiaomeng/zh_CN/index.htm) on soil organic carbon and AI, and B.S. in Environmental Science from Sun Yat-sen University in 2018. 
 
 <span style="color:red; font-weight: bold;">
