@@ -2,7 +2,7 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: blank # the website title (if blank, full name will be used instead)
+title: Tao Lab # the website title (if blank, full name will be used instead)
 first_name: Feng Tao
 middle_name:
 last_name: 陶鳳
@@ -16,7 +16,7 @@ email: feng.tao@psu.edu; phx.tao@gmail.com
 keywords:  # add your own keywords or leave empty
 
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
-icon: ⚛️  # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+icon:  # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url: https://phxtao.github.io # the base hostname & protocol for your site
 baseurl: # the subpath of your site, e.g. /blog/
