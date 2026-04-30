@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Incoming Nanyang Assistant Professor at the Asian School of Environment, Nanyang Technological University
+subtitle: Incoming Nanyang Assistant Professor at the Asian School of the Environment, Nanyang Technological University
 
 profile:
   align: right
@@ -21,7 +21,7 @@ social: true  # includes social icons at the bottom of the page
 
 #### <span style="font-weight: bold;">Bio</span>
 
-I will be joining the [Asian School of Environment, Nanyang Technological University](https://www.ntu.edu.sg/ase) as a Nanyang Assistant Professor, effectively July 1, 2026.
+I will be joining the [Asian School of the Environment, Nanyang Technological University](https://www.ntu.edu.sg/ase) as a Nanyang Assistant Professor, effectively July 1, 2026.
 Currently, I am an Assistant Professor in Climate AI at College of Information Science and Technology and Institute of Energy and the Environment (co-hire) at the Pennsylvania State University.
 I work at the interface of soil carbon science, mechanistic modelling, and AI to understand the global soil carbon cycle and its response to climate change. 
 Before joining Penn State, I was a Schmidt AI for Science Postdoctoral Fellow at Cornell University, working with Dean [Ben Houlton](https://cals.cornell.edu/benjamin-z-houlton) on enhanced rock weathering. 
