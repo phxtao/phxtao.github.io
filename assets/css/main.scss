@@ -14,3 +14,12 @@ $max-content-width: {{ site.max_width }};
   "distill",
   "cv"
 ;
+
+body {
+  font-size: 18px !important;
+  font-family: "Source Sans Pro", "Arial", "sans-serif" ;
+}
+
+.container {
+  max-width: 65% !important;
+}
